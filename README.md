@@ -18,3 +18,9 @@ The goal is twofold: (1) to showcase a finished, well-structured project that wa
 - Clear markup that’s easy to extend (add sections, prices, icons)
 - Small footprint: no frameworks or build steps required — just HTML + CSS
 
+## Future improvements
+-Add CSS variables + theme switcher (light/dark)
+-Convert to a modular component (React/Vue) for larger apps
+-Add printable menu view (print-friendly CSS)
+-Small JS enhancement: filter by category, search menu items
+
