@@ -1,5 +1,7 @@
 Cafe Menu Template — Responsive Menu App (freeCodeCamp Project)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo–View-green)](https://luisjim746.github.io/Cafe-menu-template/) 
+
 A clean, responsive café menu built as a freeCodeCamp exercise.
 
 ## Purpose / Objective
