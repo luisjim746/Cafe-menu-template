@@ -8,6 +8,13 @@ A clean, responsive café menu built as a freeCodeCamp exercise.
 This project demonstrates practical front-end skills (semantic HTML, modular CSS, responsive layout and basic accessibility) in a small, real-world component: a café menu.  
 The goal is twofold: (1) to showcase a finished, well-structured project that was built from start to finish; (2) to serve as a reusable starter template to quickly adapt to a client (bar, cafe, or small restaurant).
 
+### Desktop
+![Desktop preview](./assets/screenshot-desktop.png)
+
+### Mobile
+![Mobile preview](./assets/screenshot-mobile.png)
+
+
 ## Technologies
 
 - **HTML5**
